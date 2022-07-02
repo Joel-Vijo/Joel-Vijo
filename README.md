@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Joel Vijo,a sophomore currently pursuing his Btech in Computer Science and Engineering at Visvesvaraya National Institute of Technology,Nagpur.
+- 👋 Hi, I'm Joel Vijo,a pre-final year undergrad currently pursuing his Btech in Computer Science and Engineering at Visvesvaraya National Institute of Technology,Nagpur.
 
 
 <!---
